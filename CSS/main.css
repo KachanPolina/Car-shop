@@ -1,0 +1,15 @@
+.navigation ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 20px;
+}
+
+.address {
+    list-style-type: none;
+}
+
+.address {
+    list-style-type: none;
+}
+
