@@ -1,17 +1,10 @@
-.navigation ul {
+.menu ul {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    gap: 20px;
+    gap: 25px;
 }
 
-.address {
-    list-style-type: none;
-}
-
-.address {
-    list-style-type: none;
-}
 
 .footer {
     display: flex;
@@ -19,9 +12,13 @@
     gap: 100px;
 }
 
-.navigation {
+.menu {
     display: flex;
     gap: 20px;
     justify-content: center;
+}
+
+img {
+    height: 100px;
 }
 
