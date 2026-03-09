@@ -22,3 +22,34 @@ img {
     height: 100px;
 }
 
+table, tr, th, td {
+    border: 2px solid teal;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    width: 500px;
+}
+
+datalist {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    position: relative;
+    left: 43px;
+    font-size: 12px;
+}
+
+option {
+    padding: 0;
+}
+
+input[type="range"] {
+    width: 450px;
+}
+
+
