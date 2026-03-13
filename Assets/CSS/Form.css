@@ -1,0 +1,20 @@
+fieldset {
+    width: 320px;
+}
+
+datalist {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    position: relative;
+    left: 44px;
+    font-size: 12px;
+}
+
+option {
+    padding: 0;
+}
+
+input[type="range"] {
+    width: 250px;
+}
